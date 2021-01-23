@@ -2,6 +2,8 @@
 Projects for CS230 Deep Learning
 
 
+
+
 20.01.2021
 My first ever neural network (actually logistic regression in disguise)
 Application: binary cat picture classifier(identifier)
