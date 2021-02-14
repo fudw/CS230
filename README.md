@@ -2,7 +2,7 @@
 Projects for CS230 Deep Learning<br/>
 <br/><br/>
 ### 13.02.2021
-Residual network (50 layers)<br/>
+Residual network with keras (50 layers)<br/>
 Application: hand sign classification<br/>
 <br/><br/>
 ### 11.02.2021
