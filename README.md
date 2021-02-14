@@ -1,6 +1,14 @@
 # CS230
 Projects for CS230 Deep Learning<br/>
 <br/><br/>
+### 13.02.2021
+Residual network (50 layers)<br/>
+Application: hand sign classification<br/>
+<br/><br/>
+### 11.02.2021
+Convolutional neural network <br/>
+Application: Face emotion detection<br/>
+<br/><br/>
 ### 24.01.2021
 Deep neural network (2-L hidden layers)<br/>
 Application: binary cat picture classifier(identifier) improved<br/>
