@@ -1,6 +1,10 @@
 # CS230
 Projects for CS230 Deep Learning<br/>
 <br/><br/>
+### 19.02.2021
+YOLO algorithm for object detection<br/>
+Application: car detection for autonomous driving<br/>
+<br/><br/>
 ### 13.02.2021
 Residual network with keras (50 layers)<br/>
 Application: hand sign classification<br/>
