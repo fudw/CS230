@@ -1,6 +1,10 @@
 # CS230
 Projects for CS230 Deep Learning<br/>
 <br/><br/>
+### 21.02.2021
+Image encoding with DeepFace and triplet loss<br/>
+Application: face verification and recognition<br/>
+<br/><br/>
 ### 19.02.2021
 YOLO algorithm for object detection<br/>
 Application: car detection for autonomous driving<br/>
