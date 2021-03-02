@@ -1,6 +1,10 @@
 # CS230
 Projects for CS230 Deep Learning<br/>
 <br/><br/>
+### 02.03.2021
+Recurrent Neural Network with gradient clipping<br/>
+Application: Dinosaur name generation<br/>
+<br/><br/>
 ### 21.02.2021
 Image encoding with DeepFace and triplet loss<br/>
 Application: face verification and recognition<br/>
