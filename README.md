@@ -1,6 +1,10 @@
 # CS230
 Projects for CS230 Deep Learning<br/>
 <br/><br/>
+### 08.03.2021
+GloVe word vectors and cosine similarity<br/>
+Application: Completing analogy and debiasing word vectors<br/>
+<br/><br/>
 ### 02.03.2021
 Recurrent Neural Network with gradient clipping<br/>
 Application: Dinosaur name generation<br/>
